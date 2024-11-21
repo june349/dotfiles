@@ -1,0 +1,37 @@
+[window]
+dimensions = { columns = 115, lines = 30 }
+padding = { x = 10, y = 10 }
+opacity = 0.915
+blur = true
+
+[font]
+normal = { family = "Iosevka Nerd Font Mono", style = "Regular" }
+size = 12
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+
+# One Dark Pro (darker)
+[colors.primary]
+background = "#23272e"
+foreground = "#abb2bf"
+
+[colors.normal]
+black = "#3f4451"
+red = "#e05561"
+green = "#8cc265"
+yellow = "#d18f52"
+blue = "#4aa5f0"
+magenta = "#c162de"
+cyan = "#42b3c2"
+white = "#d7dae0"
+
+[colors.bright]
+black = "#4f5666"
+red = "#ff616e"
+green = "#a5e075"
+yellow = "#d19a66"
+blue = "#4dc4ff"
+magenta = "#de73ff"
+cyan = "#4cd1e0"
+white = "#e6e6e6"
