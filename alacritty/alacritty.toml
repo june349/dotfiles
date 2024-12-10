@@ -2,8 +2,8 @@
 shell = "fish"
 
 [window]
-dimensions = { columns = 115, lines = 30 }
-padding = { x = 10, y = 10 }
+dimensions = { columns = 120, lines = 30 }
+padding = { x = 12, y = 12 }
 opacity = 0.915
 blur = true
 
