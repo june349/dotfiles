@@ -4,8 +4,6 @@ shell = "fish"
 [window]
 dimensions = { columns = 120, lines = 30 }
 padding = { x = 12, y = 12 }
-opacity = 0.915
-blur = true
 
 [font]
 normal = { family = "Iosevka Nerd Font Mono", style = "Regular" }
